@@ -1,1 +1,0 @@
- Get-Item –Path (your file or exe name)  | Move-Item -Destination c:\(Place where you wanna put your file) 
